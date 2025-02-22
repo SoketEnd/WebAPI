@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using BuisnessLogic;
+using BuisnessLogic.Service;
 
 namespace Web.Conroller
 {

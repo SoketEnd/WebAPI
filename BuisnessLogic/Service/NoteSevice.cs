@@ -1,8 +1,7 @@
-﻿
-using DataAccess;
+﻿using DataAccess;
 using DataAccess.Repisitory;
 
-namespace BuisnessLogic
+namespace BuisnessLogic.Service
 {
     internal class NoteSevice(INoteRepository noteRepository) : INoteSrvice
     {
